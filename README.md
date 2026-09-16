@@ -50,11 +50,10 @@
 <img src="https://i.pinimg.com/736x/d5/ea/58/d5ea58cb2d2122ee7a2c7847a6a918c1.jpg" width="100%" alt="Header Retro">
 </h1>
 
-### 📊 Mis Estadísticas
+<h3 align="center">📊 Mis Estadísticas</h3>
 
 <div align="center">
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=SebastianCruzMendez&show_icons=true&theme=synthwave&hide_border=true)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianCruzMendez&layout=compact&theme=synthwave&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianCruzMendez&amp;show_icons=true&amp;theme=synthwave&amp;hide_border=true" alt="Estadísticas de GitHub" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianCruzMendez&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true" alt="Top Lenguajes" height="165" />
 </div>
