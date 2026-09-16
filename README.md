@@ -1,6 +1,6 @@
 <h1 align="center">
   <!-- Aquí puedes poner un GIF de un paisaje City-Pop, un atardecer o estática CRT -->
-<img src="https://assets.pinterest.com/ext/embed.html?id=2251868558443669" height="354" width="450" frameborder="0" scrolling="no">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJlbDViNWQ4NG0xaHpkOHB5enpsamthNW5hZXdlMzAwejFwaTVzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cyMqOH8rjgDHG/giphy.webp">
 </h1>
 
 <h2 align="center">¡Hola! Soy Sebastian Cruz Méndez 👾</h2>
