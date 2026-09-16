@@ -1,12 +1,12 @@
 <h1 align="center">
   <!-- Aquí puedes poner un GIF de un paisaje City-Pop, un atardecer o estática CRT -->
-  <img src="https://i.pinimg.com/originals/82/38/c4/8238c4b9d0319df6b5c328dbf6828590.gif" alt="Retro 80s Header" width="100%">
+  <img src="src="https://assets.pinterest.com/ext/embed.html?id=806003664582885854" height="295" width="345" frameborder="0" scrolling="no"" alt="Retro 80s Header" width="100%">
 </h1>
 
 <h2 align="center">¡Hola! Soy Sebastian Cruz Méndez 👾</h2>
 
 <p align="center">
-  <strong>Desarrollador Full-Stack | Apasionado por las interfaces retro, el buen diseño y las arquitecturas sólidas.</strong>
+  <strong>Desarrollador Full-Stack | Apasionado por el buen diseño y las arquitecturas sólidas.</strong>
 </p>
 
 <br/>
