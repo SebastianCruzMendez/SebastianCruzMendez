@@ -10,7 +10,7 @@
 - 💻 Desarrollador enfocado en **Backend con Java/Spring Boot** y **Frontend interactivo** (JS, HTML5, CSS3, Bootstrap).
 - 🥋 Actualmente construyendo sistemas de gestión para clubes deportivos y plataformas que combinan funcionalidad moderna con estética clásica.
 - 🎨 Me encanta experimentar con *glassmorphism*, efectos 3D en tarjetas y vibras nostálgicas en mis interfaces web.
-- 🔗 Revisa mi portafolio aquí: [Tu-Enlace-Al-Portafolio.com]
+- 🔗 Revisa mi portafolio aquí: (https://sebastiancruzmendez.github.io/Portafolio_Sebastian_Cruz/)
 
 ---
 
@@ -40,7 +40,7 @@
   <a href="mailto:tu-correo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/sebastian-cruz-m%C3%A9ndez-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
