@@ -1,8 +1,3 @@
-<h1 align="center">
-  <!-- Aquí puedes poner un GIF de un paisaje City-Pop, un atardecer o estática CRT -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFtM3ZveW5la3VzNW42emZsNzBsOXpkM2lvb2RicTRxMTduM3d4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q8ikv1X86Iw12/200.webp" width="800" height="350" alt="Header Retro">
-</h1>
-
 <h2 align="center">¡Hola! Soy Sebastian Cruz Méndez 👾</h2>
 
 <p align="center">
@@ -49,3 +44,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<h1 align="center">
+  <!-- Aquí puedes poner un GIF de un paisaje City-Pop, un atardecer o estática CRT -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFtM3ZveW5la3VzNW42emZsNzBsOXpkM2lvb2RicTRxMTduM3d4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q8ikv1X86Iw12/200.webp" width="800" height="350" alt="Header Retro">
+</h1>
