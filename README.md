@@ -52,10 +52,12 @@
 
 <h3 align="center">📊 Mis Estadísticas</h3>
 
+<h3 align="center">📊 Mis Estadísticas</h3>
+
 <div align="center">
   <!-- Tarjeta de Estadísticas Generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianCruzMendez&show_icons=true&theme=synthwave&hide_border=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianCruzMendez&show_icons=true&theme=synthwave&hide_border=true" alt="Estadísticas de GitHub de Sebastian" height="165" />
   
   <!-- Tarjeta de Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianCruzMendez&layout=compact&theme=synthwave&hide_border=true" alt="Top Lenguajes" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianCruzMendez&layout=compact&theme=synthwave&hide_border=true" alt="Top Lenguajes de Sebastian" height="165" />
 </div>
