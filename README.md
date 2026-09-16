@@ -47,5 +47,5 @@
 
 <h1 align="center">
   <!-- Aquí puedes poner un GIF de un paisaje City-Pop, un atardecer o estática CRT -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFtM3ZveW5la3VzNW42emZsNzBsOXpkM2lvb2RicTRxMTduM3d4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q8ikv1X86Iw12/200.webp" width="800" height="350" alt="Header Retro">
+<img src="https://i.pinimg.com/736x/d5/ea/58/d5ea58cb2d2122ee7a2c7847a6a918c1.jpg" width="800" height="350" alt="Header Retro">
 </h1>
